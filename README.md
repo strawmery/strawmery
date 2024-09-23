@@ -1,16 +1,16 @@
 ## Hi there 👋
+My name is Maria, I'm a junior dev, currently doing a backend bootcamp with FactoriaF5, I did in the past a certificate where I learned java, SQL, css and HTML, I'm also starting with a new low code program named Velneo.
 
-<!--
-**strawmery/strawmery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning java springboot and velneo
+- 📫 How to reach me: mgarciasierragrsr@gmail.com
+- 😄 Pronouns: She/They/He
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- languages i know:
+- C
+- Java
+- SQL
+- Javascript
+- CSS
+- HTML
+
