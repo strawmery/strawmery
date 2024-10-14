@@ -6,7 +6,7 @@
     ⋅˚₊‧ ୨୧ ‧₊˚ ⋅
     💻 Backend developer
     📚 Stacks • HTML • CSS • JavaScrpit • MySQL • Java • Spring Boot • C
-    📖 Docker • PostMan 
+    📖 Docker • PostMan • VScode • Eclipse
     🎮 Music • Videogames • Anime • Code
 </pre>
 <br><br>
