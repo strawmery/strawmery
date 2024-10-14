@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=in+consolata&weight=200&pause=1000&color=D6F7CA&center=true&multiline=true&width=435&lines=Console.log('Hello+World');I'm+Maria%2C+a+backend+witch%2C+casting+spells+in+Java!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=in+consolata&weight=900&duration=4000&pause=300&color=F7F1AC&center=true&vCenter=true&multiline=true&width=600&height=150&separator=%3C&lines=System.out.println(%22Hello+World%22);%3CI'm+Maria%2C+a+backend+witch%2C+casting+spells+in+Java!" alt="Typing SVG" /></a>
 <br><br>
 <pre>
     💼 BSC @ UFMG • Back-end dev • Platform Engineer
