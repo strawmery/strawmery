@@ -10,7 +10,7 @@
     🎮 Music • Videogames • Anime • Code
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://github.com/strawmery/strawmery/blob/main/Cat%20Pixel%20Sticker%20-%20Find%20%26%20Share%20on%20GIPHY.gif" height="70" />
 <br><br><br>
     
 </div>
